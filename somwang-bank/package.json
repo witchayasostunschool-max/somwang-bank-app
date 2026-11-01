@@ -1,0 +1,1 @@
+{"name":"somwang-bank","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"netlify dev"},"engines":{"node":">=20"},"devDependencies":{"netlify-cli":"^23.0.0"}}
